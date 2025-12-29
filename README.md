@@ -1,0 +1,2 @@
+# wpxIEvmclw
+本系统为后台权限管理系统，核心功能是实现用户权限的管理与控制。图一版本采用SpringBoot+Shiro技术，结合MySQL存储与BootStrap前端；图二版本为前后端分离，基于SpringBoot+SpringSecurity，使用Redis缓存与MySQL，搭配Vue前端。系统有效保障数据安全，提供用户角色权限的精细化管理，适用于需要严格权限控制的业务场景，助力企业高效管理后台权限。
